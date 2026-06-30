@@ -20,7 +20,11 @@
 
 ## 🐍 Contribution Graph
 <div align="center">
+
+  
 ![Snake animation](https://raw.githubusercontent.com/abdelhamideltwab/abdelhamideltwab/refs/heads/output/github-contribution-grid-snake-dark.svg)
+
+
 </div>
 
 ---
