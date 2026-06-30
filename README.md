@@ -18,6 +18,11 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
+## 🐍 Contribution Graph
+<div align="center">
+![Snake animation](https://raw.githubusercontent.com/abdelhamideltwab/abdelhamideltwab/refs/heads/output/github-contribution-grid-snake-dark.svg)
+</div>
+
 ---
 [![](https://komarev.com/ghpvc/?username=abdelhamideltwab&icon=5&color=3)](https://visitcount.itsvg.in)
 
